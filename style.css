@@ -10,7 +10,8 @@
 }
 
 body {
-  font-family: 'Futura Medium', sans-serif;
+  font-family: 'Futura PT', sans-serif;
+  font-weight: 500;
   background-image: url('images/background.png');
   background-size: cover;
   background-position: center;
@@ -90,6 +91,7 @@ body {
   flex-direction: column;
   gap: 16px;
   margin-bottom: 30px;
+  font-weight: 500;
 }
 
 /* Answer Button */
@@ -129,7 +131,7 @@ body {
   color: #000;
   cursor: pointer;
   transition: all 0.3s ease;
-  font-weight: 600;
+  font-weight: 500;
   margin-top: 20px;
 }
 
@@ -185,7 +187,7 @@ body {
 
 .result-header {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 30px;
 }
 
@@ -207,7 +209,7 @@ body {
 
 .result-title {
   font-size: 32px;
-  font-weight: 700;
+  font-weight: 500;
   margin: 10px 0;
 }
 
