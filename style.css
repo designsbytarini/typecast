@@ -2,6 +2,9 @@
   font-family: 'PicNic';
   src: url('fonts/PicNic.woff2') format('woff2');
 
+  
+}
+
 /* Reset and Base Styles */
 * {
   margin: 0;
@@ -96,7 +99,7 @@ body {
 
 /* Answer Button */
 .answer-btn {
-  background-image: url('images/hoverbutton.png');
+  background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
   background-color: #7FACBB; /* Fallback color */
@@ -111,7 +114,7 @@ body {
 }
 
 .answer-btn:hover {
-  background-image: url('images/hoverbutton.png');
+  background-image: url('images/hover.png');
 }
 
 .answer-btn:active {
@@ -136,7 +139,7 @@ body {
 }
 
 .enter-btn:hover {
-  background-image: url('images/hoverbutton.png');
+  background-image: url('images/hover.png');
 }
 
 /* Footer Text */
@@ -219,3 +222,4 @@ body {
   text-align: center;
   max-width: 400px;
 }
+
