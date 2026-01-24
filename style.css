@@ -2,6 +2,10 @@
   font-family: 'PicNic';
   src: url('fonts/PicNic.woff2') format('woff2');
 
+  body {
+  background-color: yellow !important;
+}
+
 /* Reset and Base Styles */
 * {
   margin: 0;
