@@ -48,7 +48,7 @@ body {
 
 /* Title */
 .quiz-title {
-  font-family: 'Picnic', cursive;
+  font-family: 'PicNic', cursive;
   font-size: 72px;
   font-weight: normal;
   margin-bottom: 20px;
@@ -97,7 +97,7 @@ body {
   background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
-  background-color: #6BA5C8; /* Fallback color */
+  background-color: #7FACBB; /* Fallback color */
   border: none;
   border-radius: 25px;
   padding: 18px 30px;
@@ -122,7 +122,7 @@ body {
   background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
-  background-color: #6BA5C8; /* Fallback color */
+  background-color: #7FACBB; /* Fallback color */
   border: none;
   border-radius: 25px;
   padding: 15px 60px;
