@@ -96,7 +96,7 @@ body {
 
 /* Answer Button */
 .answer-btn {
-  background-image: url('images/button.png');
+  background-image: url('images/hoverbutton.png');
   background-size: cover;
   background-position: center;
   background-color: #7FACBB; /* Fallback color */
@@ -111,7 +111,7 @@ body {
 }
 
 .answer-btn:hover {
-  background-image: url('images/hover.png');
+  background-image: url('images/hoverbutton.png');
 }
 
 .answer-btn:active {
@@ -136,7 +136,7 @@ body {
 }
 
 .enter-btn:hover {
-  background-image: url('images/hover.png');
+  background-image: url('images/hoverbutton.png');
 }
 
 /* Footer Text */
