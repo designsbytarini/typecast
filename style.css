@@ -110,7 +110,6 @@ body {
 
 .answer-btn:hover {
   background-image: url('images/hover.png');
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 .answer-btn:active {
@@ -136,7 +135,6 @@ body {
 
 .enter-btn:hover {
   background-image: url('images/hover.png');
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 /* Footer Text */
