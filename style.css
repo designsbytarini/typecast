@@ -94,7 +94,7 @@ body {
 
 /* Answer Button */
 .answer-btn {
-  background-image: url('path-to-your-button-texture.jpg');
+  background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
   background-color: #6BA5C8; /* Fallback color */
@@ -109,7 +109,7 @@ body {
 }
 
 .answer-btn:hover {
-  background-color: #5A94B7;
+  background-image: url('images/hover.png');
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
@@ -119,7 +119,7 @@ body {
 
 /* Enter/Submit Button */
 .enter-btn {
-  background-image: url('path-to-your-button-texture.jpg');
+  background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
   background-color: #6BA5C8; /* Fallback color */
@@ -135,7 +135,7 @@ body {
 }
 
 .enter-btn:hover {
-  background-color: #5A94B7;
+  background-image: url('images/hover.png');
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
