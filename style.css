@@ -51,7 +51,7 @@ body {
 /* Title */
 .quiz-title {
   font-family: 'PicNic', cursive;
-  font-size: 72px;
+  font-size: 87px;
   font-weight: normal;
   margin-bottom: 20px;
   color: #000;
@@ -97,7 +97,6 @@ body {
 
 /* Answer Button */
 .answer-btn {
-  background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
   background-color: #7FACBB; /* Fallback color */
@@ -112,7 +111,7 @@ body {
 }
 
 .answer-btn:hover {
-  background-image: url('images/hover.png');
+  background-color: #E18BBA;
 }
 
 .answer-btn:active {
@@ -121,10 +120,9 @@ body {
 
 /* Enter/Submit Button */
 .enter-btn {
-  background-image: url('images/button.png');
   background-size: cover;
   background-position: center;
-  background-color: #7FACBB; /* Fallback color */
+  background-color: #7FACBB; 
   border: none;
   border-radius: 25px;
   padding: 15px 60px;
@@ -137,7 +135,7 @@ body {
 }
 
 .enter-btn:hover {
-  background-image: url('images/hover.png');
+  background-color: #E18BBA;
 }
 
 /* Footer Text */
@@ -156,7 +154,7 @@ body {
   }
   
   .quiz-title {
-    font-size: 52px;
+    font-size: 62px;
   }
   
   .quiz-description {
