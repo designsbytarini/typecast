@@ -259,38 +259,31 @@ function calculateResultType() {
 function displayResult(type) {
   const results = {
     yearner: {
-      title: "The Yearner",
-      description: "YOUR DESCRIPTION FOR THE YEARNER HERE",
+      title: "The Yearner"
       image: "images/result-yearner.png"
     },
     dreamer: {
-      title: "The Dreamer",
-      description: "YOUR DESCRIPTION FOR THE DREAMER HERE",
+      title: "The Dreamer"
       image: "images/result-dreamer.png"
     },
     chaosEnjoyer: {
       title: "The Chaos Enjoyer",
-      description: "YOUR DESCRIPTION FOR THE CHAOS ENJOYER HERE",
       image: "images/result-chaos.png"
     },
     giggler: {
       title: "The Giggler",
-      description: "YOUR DESCRIPTION FOR THE GIGGLER HERE",
       image: "images/result-giggler.png"
     },
     fighter: {
       title: "The Fighter",
-      description: "YOUR DESCRIPTION FOR THE FIGHTER HERE",
       image: "images/result-fighter.png"
     },
     thrillSeeker: {
       title: "The Thrill Seeker",
-      description: "YOUR DESCRIPTION FOR THE THRILL SEEKER HERE",
       image: "images/result-thrillseeker.png"
     },
     mythIndulger: {
       title: "The Myth Indulger",
-      description: "YOUR DESCRIPTION FOR THE MYTH INDULGER HERE",
       image: "images/result-myth.png"
     }
   };
