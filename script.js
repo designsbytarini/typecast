@@ -53,7 +53,7 @@ const questions = [
     image: "images/Q5 photo.png",
     answers: [
       { text: "Slow, lingering and atmospheric pacing", value: "a" },
-      { text: "Uncomfortable, tense and unpredictable pacing", value: "b" },
+      { text: "Uncomfortable and unpredictable pacing", value: "b" },
       { text: "Easy, familiar and uncomplicated pacing", value: "c" },
       { text: "Intense, high energy and fast pacing", value: "d" }
     ]
@@ -99,7 +99,7 @@ const questions = [
       { text: "Power to cause chaos", value: "a" },
       { text: "Power to love, heal or connect", value: "b" },
       { text: "Power tied to survival, destiny or heroism", value: "c" },
-      { text: "Power to disturb, unsettling others to fulfil desire", value: "d" }
+      { text: "Power to disturb others to fulfil desire", value: "d" }
     ]
   },
   {
