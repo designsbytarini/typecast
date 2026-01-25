@@ -71,13 +71,13 @@ const questions = [
   },
   {
     id: 7,
-    question: "7. How do you want a film to treat reality?",
+    question: "7. “How far from reality should a film take you?",
     image: "images/Q7 photo.png",
     answers: [
-      { text: "Romanticize it", value: "a" },
-      { text: "Distort it", value: "b" },
-      { text: "Ground it", value: "c" },
-      { text: "Make a new reality", value: "d" }
+      { text: "Romanticize reality", value: "a" },
+      { text: "Distort reality", value: "b" },
+      { text: "Keep it grounded", value: "c" },
+      { text: "Make a entirely new world", value: "d" }
     ]
   },
   {
