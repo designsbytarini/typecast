@@ -45,10 +45,6 @@ body {
   max-width: 500px;
   width: 100%;
   text-align: center;
-  min-height: 650px;  /* ADD THIS - matches your homepage height */
-  display: flex;  /* ADD THIS */
-  flex-direction: column;  /* ADD THIS */
-  justify-content: space-between;  //ADDED//
 }
 
 /* Title */
@@ -163,7 +159,6 @@ body {
   .quiz-card {
    padding: 35px 35px;
     max-width: 420px;
-    min-height: 600px;
   }
   
   .quiz-title {
