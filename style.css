@@ -149,16 +149,16 @@ body {
 /* Mobile Responsive */
 @media (max-width: 768px) {
   .quiz-card {
-    padding: 40px 30px;
-    max-width: 380px;
+    padding: 40px 35px;
+    max-width: 420px;
   }
   
   .quiz-title {
-    font-size: 62px;
+    font-size: 56px;
   }
   
   .quiz-description {
-    font-size: 14px;
+    font-size: 13px;
   }
   
   .question {
