@@ -41,8 +41,8 @@ body {
 .quiz-card {
   background-color: #FDE0D7;
   border-radius: 40px;
-  padding: 60px 50px;
-  max-width: 600px;
+  padding: 45px 50px;
+  max-width: 500px;
   width: 100%;
   text-align: center;
 }
@@ -50,10 +50,10 @@ body {
 /* Title */
 .quiz-title {
   font-family: 'PicNic', cursive;
-  font-size: 87px;
+  font-size: 90px;
   font-weight: normal;
-  margin-bottom: 14px;
-  color: #000;
+  margin-bottom: 20px;
+  color: #191915;
 }
 
 /* Subtitle/Description */
@@ -61,7 +61,7 @@ body {
   font-size: 16px;
   line-height: 1.4;
   margin-bottom: 30px;
-  color: #000;
+  color: #191915;
 }
 
 /* Image Container */
@@ -82,7 +82,7 @@ body {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 30px;
-  color: #000;
+  color: #191915;
 }
 
 /* Answer Options Container */
@@ -103,7 +103,7 @@ body {
   border-radius: 25px;
   padding: 18px 30px;
   font-size: 16px;
-  color: #000;
+  color: #191915;
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 500;
@@ -127,7 +127,7 @@ body {
   border-radius: 25px;
   padding: 15px 60px;
   font-size: 18px;
-  color: #000;
+  color: #191915;
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 500;
@@ -142,7 +142,7 @@ body {
 .footer-text {
   font-size: 13px;
   margin-top: 25px;
-  color: #000;
+  color: #191915;
   line-height: 1.4;
 }
 
