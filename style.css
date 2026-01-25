@@ -149,16 +149,22 @@ body {
 /* Mobile Responsive */
 @media (max-width: 768px) {
   .quiz-card {
-    padding: 40px 35px;
+    padding: 35px 35px;
     max-width: 420px;
   }
   
   .quiz-title {
-    font-size: 72px;
+    font-size: 56px;
+    margin-bottom: 15px;
   }
   
   .quiz-description {
-    font-size: 13px;
+    font-size: 14px;
+    margin-bottom: 25px;
+  }
+  
+  .quiz-image {
+    margin: 20px 0;
   }
   
   .question {
@@ -173,6 +179,12 @@ body {
   .enter-btn {
     padding: 12px 50px;
     font-size: 16px;
+    margin-top: 15px;
+  }
+  
+  .footer-text {
+    font-size: 13px;
+    margin-top: 20px;
   }
 }
 
