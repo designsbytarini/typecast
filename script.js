@@ -110,7 +110,7 @@ const questions = [
       { text: "The tension, the not-knowing where it's going", value: "a" },
       { text: "The humour that's hiding the discomfort", value: "b" },
       { text: "The mood, even if nothing happens", value: "c" },
-      { text: "Emotional resonance and character connection", value: "d" }
+      { text: "The deep character connection", value: "d" }
     ]
   }
 ];
