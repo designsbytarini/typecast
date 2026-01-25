@@ -91,6 +91,7 @@ body {
   flex-direction: column;
   gap: 16px;
   margin-bottom: 30px;
+  font-family: 'Futura', sans-serif;
   font-weight: 500;
 }
 
