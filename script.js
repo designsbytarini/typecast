@@ -74,10 +74,10 @@ const questions = [
     question: "7. How far from reality should a film take you?",
     image: "images/Q7 photo.png",
     answers: [
-      { text: "Romanticize reality", value: "a" },
-      { text: "Distort reality", value: "b" },
-      { text: "Keep it grounded", value: "c" },
-      { text: "Make a entirely new world", value: "d" }
+      { text: "Just a little — romanticised but real", value: "a" },
+      { text: "Not far at all — keep it grounded", value: "b" },
+      { text: "Somewhere in between — bend reality", value: "c" },
+      { text: "As far as possible — build a new world", value: "d" }
     ]
   },
   {
