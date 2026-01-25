@@ -42,7 +42,7 @@ body {
 .quiz-card {
   background-color: #FDE0D7;
   border-radius: 40px;
-  padding: 45px 50px;
+  padding: 45px 50px 25px;
   max-width: 500px;
   width: 100%;
   text-align: center;
