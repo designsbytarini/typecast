@@ -83,6 +83,10 @@ body {
   font-weight: 500;
   margin-bottom: 30px;
   color: #191915;
+  min-height: 60px;  /* ADDED THIS */
+  display: flex;  /* ADDED THIS */
+  align-items: center;  /* ADDED THIS */
+  justify-content: center;  /* ADDED THIS */
 }
 
 /* Answer Options Container */
@@ -107,6 +111,10 @@ body {
   transition: all 0.3s ease;
   font-weight: 500;
   font-family: 'Futura', sans-serif;
+  min-height: 60px;  /* ADD THIS */
+  display: flex;  /* ADD THIS */
+  align-items: center;  /* ADD THIS */
+  justify-content: center;  /* ADD THIS */
 }
 
 .answer-btn:hover {
@@ -166,15 +174,18 @@ body {
   
   .quiz-image {
     margin: 20px 0;
+    height: 180px; /ADDED THIS/
   }
   
   .question {
     font-size: 18px;
+    min-height: 50px;  /* ADD THIS */
   }
   
   .answer-btn {
     padding: 14px 24px;
     font-size: 14px;
+    min-height: 55px;
   }
   
   .enter-btn {
