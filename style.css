@@ -45,7 +45,6 @@ body {
   max-width: 500px;
   width: 100%;
   text-align: center;
-  min-height: 600px; 
   display: flex;  
   flex-direction: column;
 }
@@ -94,8 +93,6 @@ body {
   flex-direction: column;
   gap: 16px;
   margin-bottom: 30px;
-  font-family: 'Futura', sans-serif;
-  font-weight: 500;
 }
 
 /* Answer Button */
@@ -111,6 +108,7 @@ body {
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 500;
+  font-family: 'Futura', sans-serif;
 }
 
 .answer-btn:hover {
