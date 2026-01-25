@@ -259,11 +259,11 @@ function calculateResultType() {
 function displayResult(type) {
   const results = {
     yearner: {
-      title: "The Yearner"
+      title: "The Yearner",
       image: "images/result-yearner.png"
     },
     dreamer: {
-      title: "The Dreamer"
+      title: "The Dreamer",
       image: "images/result-dreamer.png"
     },
     chaosEnjoyer: {
