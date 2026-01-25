@@ -74,9 +74,10 @@ body {
 }
 
 .quiz-image img {
-  width: 100%;
+  width: 85%;
   height: auto;
   display: block;
+  margin: 0 auto;
 }
 
 /* Question */
@@ -181,7 +182,7 @@ body {
   
   .quiz-image {
     margin: 20px 0;
-    height: 180px; /ADDED THIS/
+    height: 180px; 
   }
   
   .question {
