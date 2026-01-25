@@ -42,10 +42,10 @@ body {
   background-color: #FDE0D7;
   border-radius: 40px;
   padding: 60px 50px;
-  max-width: 600px;
+  max-width: 440px;
+  height: 625px;
   width: 100%;
   text-align: center;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
 }
 
 /* Title */
