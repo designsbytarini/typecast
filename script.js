@@ -71,7 +71,7 @@ const questions = [
   },
   {
     id: 7,
-    question: "7. “How far from reality should a film take you?",
+    question: "7. How far from reality should a film take you?",
     image: "images/Q7 photo.png",
     answers: [
       { text: "Romanticize reality", value: "a" },
