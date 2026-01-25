@@ -85,7 +85,7 @@ const questions = [
     question: "8. You're loyal to films that are",
     image: "images/Q8 photo.png",
     answers: [
-      { text: "Bold, albeit painful", value: "a" },
+      { text: "Beautiful, albeit painful", value: "a" },
       { text: "Bold, strange and disconcerting", value: "b" },
       { text: "Dependable and humorous", value: "c" },
       { text: "High adrenaline and action-y", value: "d" }
