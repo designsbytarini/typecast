@@ -6,7 +6,7 @@ const questions = [
   {
     id: 1,
     question: "1. Your ideal protagonist is someone who",
-    image: "images/q1.png",
+    image: "images/Q1 photo.png",
     answers: [
       { text: "Loves deeply and quietly", value: "a" },
       { text: "Is unravelling in fascinating ways", value: "b" },
@@ -17,7 +17,7 @@ const questions = [
   {
     id: 2,
     question: "2. You're drawn to film worlds that feel like",
-    image: "images/q2.png",
+    image: "images/Q2 photo.png",
     answers: [
       { text: "A soft ache that follows you out of the cinema", value: "a" },
       { text: "A slow uneasiness that has you hooked", value: "b" },
@@ -28,7 +28,7 @@ const questions = [
   {
     id: 3,
     question: "3. When a film ends, what do you want to feel the most?",
-    image: "images/q3.png",
+    image: "images/Q3 photo.png",
     answers: [
       { text: "Emotional tenderness and nostalgia", value: "a" },
       { text: "Haunted and uneasiness", value: "b" },
@@ -39,7 +39,7 @@ const questions = [
   {
     id: 4,
     question: "4. Which character flaw can you forgive easily?",
-    image: "images/q4.png",
+    image: "images/Q4 photo.png",
     answers: [
       { text: "Emotional Fragility", value: "a" },
       { text: "Obsession", value: "b" },
@@ -50,7 +50,7 @@ const questions = [
   {
     id: 5,
     question: "5. What kind of film pacing do you prefer?",
-    image: "images/q5.png",
+    image: "images/Q5 photo.png",
     answers: [
       { text: "Slow, lingering and atmospheric pacing", value: "a" },
       { text: "Uncomfortable, tense and unpredictable pacing", value: "b" },
@@ -61,7 +61,7 @@ const questions = [
   {
     id: 6,
     question: "6. What feeling do you chase through cinema?",
-    image: "images/q6.png",
+    image: "images/Q6 photo.png",
     answers: [
       { text: "Longing", value: "a" },
       { text: "Power", value: "b" },
@@ -72,7 +72,7 @@ const questions = [
   {
     id: 7,
     question: "7. How do you want a film to treat reality?",
-    image: "images/q7.png",
+    image: "images/Q7 photo.png",
     answers: [
       { text: "Romanticize it", value: "a" },
       { text: "Distort it", value: "b" },
@@ -83,7 +83,7 @@ const questions = [
   {
     id: 8,
     question: "8. You're loyal to films that are",
-    image: "images/q8.png",
+    image: "images/Q8 photo.png",
     answers: [
       { text: "Bold, albeit painful", value: "a" },
       { text: "Bold, strange and disconcerting", value: "b" },
@@ -94,7 +94,7 @@ const questions = [
   {
     id: 9,
     question: "9. If a character has power, what kind is it?",
-    image: "images/q9.png",
+    image: "images/Q9 photo.png",
     answers: [
       { text: "Power to cause chaos", value: "a" },
       { text: "Power to love, heal or connect", value: "b" },
@@ -105,7 +105,7 @@ const questions = [
   {
     id: 10,
     question: "10. When a film gets dark, what keeps you watching?",
-    image: "images/q10.png",
+    image: "images/Q10 photo.png",
     answers: [
       { text: "The tension, the not-knowing where it's going", value: "a" },
       { text: "The humour that's hiding the discomfort", value: "b" },
