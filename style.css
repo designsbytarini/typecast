@@ -120,6 +120,7 @@ body {
 /* Enter/Submit Button */
 .enter-btn {
   background-size: cover;
+  font-family: 'Futura', sans-serif;
   background-position: center;
   background-color: #7FACBB; 
   border: none;
