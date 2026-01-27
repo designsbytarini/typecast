@@ -41,7 +41,7 @@ const questions = [
     question: "4. Which character flaw can you forgive easily?",
     image: "images/Q4 photo.png",
     answers: [
-      { text: "Emotional Fragility", value: "a" },
+      { text: "Emotional fragility", value: "a" },
       { text: "Obsession", value: "b" },
       { text: "Cynical wit", value: "c" },
       { text: "Ruthless determination", value: "d" }
@@ -93,7 +93,7 @@ const questions = [
   },
   {
     id: 9,
-    question: "9. If a character has power, what kind is it?",
+    question: "9. If a character has power, what kind would you prefer?",
     image: "images/Q9 photo.png",
     answers: [
       { text: "Power to cause chaos", value: "a" },
