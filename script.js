@@ -259,31 +259,24 @@ function calculateResultType() {
 function displayResult(type) {
   const results = {
     yearner: {
-      title: "The Yearner",
       image: "images/result-yearner.png"
     },
     dreamer: {
-      title: "The Dreamer",
       image: "images/result-dreamer.png"
     },
     chaosEnjoyer: {
-      title: "The Chaos Enjoyer",
       image: "images/result-chaos.png"
     },
     giggler: {
-      title: "The Giggler",
       image: "images/result-giggler.png"
     },
     fighter: {
-      title: "The Fighter",
       image: "images/result-fighter.png"
     },
     thrillSeeker: {
-      title: "The Thrill Seeker",
       image: "images/result-thrillseeker.png"
     },
     mythIndulger: {
-      title: "The Myth Indulger",
       image: "images/result-myth.png"
     }
   };
